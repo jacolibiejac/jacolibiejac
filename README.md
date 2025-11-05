@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Olá! Eu sou <strong>Jaqueline B.O.J 😉(Jacolibiejac)</strong></h1>
+<h1 align="center">👋 Olá! Eu sou <strong>Jack B.O.J 😉(Jacolibiejac)</strong></h1>
 <p align="center">💻 Desenvolvedora Full Stack | Linux Lover | Python & Dados 🚀</p>
 
 ---
