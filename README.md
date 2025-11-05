@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Olá! Eu sou <strong>Jack B.O.J 😉(Jacolibiejac)</strong></h1>
+<h1 align="center">👋 Olá! Eu sou <strong>Jack B.O.J</strong></h1>
 <p align="center">💻 Desenvolvedora Full Stack | Linux Lover | Python & Dados 🚀</p>
 
 ---
@@ -92,7 +92,7 @@ Atualmente estudo desenvolvimento full stack e adoro criar soluções que conect
 <div align="center">
 
 📫 **Entre em contato comigo:**  
-<a href="mailto jacolibiejaq@gmail.com">jcolibiejaq@gmail.com.com</a>  
+<a href="mailto jacolibiejaq@gmail.com">jacolibiejaq@gmail.com.com</a>  
 💼 [LinkedIn](https://linkedin.com/in/jboj)
 
 </div>
