@@ -92,7 +92,7 @@ Atualmente estudo desenvolvimento full stack e adoro criar soluções que conect
 <div align="center">
 
 📫 **Entre em contato comigo:**  
-<a href="mailto jacolibiejaq@gmail.com">jacolibiejaq@gmail.com.com</a>  
+<a href="mailto jacolibiejaq@gmail.com">jacolibiejaq@gmail.com</a>  
 💼 [LinkedIn](https://linkedin.com/in/jboj)
 
 </div>
